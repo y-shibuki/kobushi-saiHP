@@ -1,0 +1,19 @@
+body{
+	background-color: #5f5f5f;
+}
+.squarePC{
+	position: absolute;
+	visibility: visible;
+	text-align: center;
+	width: 200px;
+	height: 125px;
+	background: Red;
+}
+.squarePhone{
+	position: absolute;
+	visibility: visible;
+	text-align: center;
+	width: 320px;
+	height: 200px;
+	background: Red;
+}
